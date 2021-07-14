@@ -47,3 +47,6 @@ lo que causara que los resultados calculados varíen de los obtenidos en la simu
 
 # 7. Bibliografía 
 
+Khan Academy. (2021). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition?modal=1
+
+
