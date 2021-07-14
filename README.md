@@ -46,6 +46,10 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/R2.jpeg)
 
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Calculo%20del%20error%204.PNG)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Calculo%20del%20error%204-.PNG)
+
 # 5. Video
 
 https://youtu.be/7LqhY4Y6EkY
