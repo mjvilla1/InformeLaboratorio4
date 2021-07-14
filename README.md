@@ -6,7 +6,7 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
       Objetivo General
      
     - Comprobar   el   teorema   de   superposición   mediante   la   resolución   de   un   ejercicio 
-    y   surespectiva simulación en un software de diseño electrónico 
+    y   su respectiva simulación en un software de diseño electrónico para comprabar que el método este bien utilizado
     
     Objetivos Específicos
      - Verificar experimentalmente en forma cualitativa la propiedad de Superposición.
