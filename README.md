@@ -33,6 +33,14 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 6. Conclusiones
 
+-El método o teorema de superposición es de gran utilidad para analizar circuitos quetengan dos o más fuentes, 
+ya que al analizarlo fuente por fuente el análisis resultará mássencillo de realizar.
+-Al resolver un circuito eléctrico por el método de superposición tendremos perdida dedecimales,
+lo que causara que los resultados calculados varíen de los obtenidos en la simulación. 
+- Se puede determinar que si la fuente no es la ideal esta se cortocircuita, pero se deja introducida
+ en el circuito electrico.
+ - De manera práctica aprendimos a implementar el teorema de supersición con la toma de medidas usando una sola 
+ fuente de alimentación.
 
 
 # 7. Bibliografía 
