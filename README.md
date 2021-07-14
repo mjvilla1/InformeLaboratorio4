@@ -25,13 +25,32 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 3. Explicación  del procedimiento
 
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Circuito.jpeg)
+
+Realizamos el circuito mostrado en el grafico en un protoboard
+
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%20t.jpeg)
+
+Con este esquema hecho en protoboard podemos observar la medición del voltaje e intensidad en la resistencia 2 
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/EJ%20V1%3D0.jpeg)
 
+Para hacer el análisis de superposicion debemos eliminar la fuente de voltaje 1 y reemplazarla por un cortocircuito,realizar las conexiones necesarias de elementos de medición para cada elemento que se desee conocer los valores.
+
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/EJ%20V2%3D0.jpeg)
 
+Para hacer el análisis de superposicion debemos eliminar la fuente de voltaje 2 y reemplazarla por un cortocircuito,realizar las conexiones necesarias de elementos de medición para cada elemento que se desee conocer los valores.
+
 #  4. Respuestas 
+
+Para hacer el cálculo en el diagrama tenemos que redibujar tantas veces como sea necesario para encontrar los valores pedidos 
+
+Necesitamos para el esquema encontrar el valor de la resistencia R2 y la intensidad que circula por R4.
+
+Aplicando el metodo de superposicion analizamos quitando una V1 Y V2 en dos redibujos diferentes y asi encontramos los valores
+
+Análisis del circuito con V2=0
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%201.jpeg)
 
@@ -39,13 +58,20 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%201%201.jpeg)
 
+Análisis del circuito con V3=0
+
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%203.jpeg)
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%203%201.jpeg)
 
+En este circuito el valor de IR4 es igual a cero ya que segun el procedimiento la corriente se dirige por  el cable vacio 
+
+Los resultados obtenidos nos demuestra que restando el valor del voltaje que proporciona V1 a la resitencia R2 menos V2 el valor es igual al medido en el circuito por lo que el teorema de superposicion estaria comprobado 
+
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/R%201.jpeg)
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/R2.jpeg)
+
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Calculo%20del%20error%204.PNG)
 
