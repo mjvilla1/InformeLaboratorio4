@@ -24,10 +24,27 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 # 3. Explicación  del procedimiento
 
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%20t.jpeg)
 
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/EJ%20V1%3D0.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/EJ%20V2%3D0.jpeg)
 
 #  4. Respuestas 
 
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%201.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%202.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%201%201.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%203.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Eje%203%201.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/R%201.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/R2.jpeg)
 
 # 5. Video
 
