@@ -20,6 +20,8 @@ Integrantes: Jonathan Insuasti - Melany  Villa - César Garnica
 
 ![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Tabla%20de%20Materiales.PNG)
 
+![](https://github.com/mjvilla1/ImagenesLab4/blob/main/Teorema%20de%20superposici%C3%B3n.PNG)
+
 # 3. Explicación  del procedimiento
 
 
